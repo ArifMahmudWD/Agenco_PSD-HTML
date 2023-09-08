@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+
+nav{
+    background-color: #0d2481;
+}
+nav .nav-con-btn{
+    color:#0d2481;
+}
+nav .nav-con-btn:hover{
+    color:#041b77;
+}
+.hero{
+    min-height: 80vh;
+    background-color: #dcdee1;
+}
+.hr{
+    width: 40px;
+    margin-top: 15px;
+    color: rgb(36, 35, 35);
+}
+.hero-content{
+    min-height: 400px;
+    background-color: f9f9fa;
+}
+.hero-col{
+    border-top: 5px solid #0d2481 ;
+}
+.hero-title h1{
+    font-size: 3rem;
+}
+.hero-title button{
+    background-color: #0d2481;
+    outline: none;
+    border: none;
+    transition: all .4s ease-in-out;
+}
+.hero-title button:hover{
+    background-color: #4260da;
+}
+
+.service-left{
+    background-image: url(image/Profesonal-3.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service-right{
+    background-color: #0d2481;
+}
+.accordion-item{
+    background-color: #273c91;
+    background: transparent;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.accordion-header button{
+    background-color: #112d8f;
+    color: aliceblue;
+}
+.service-btn{
+    margin-left: 20px;
+    width: 65%;
+    background-color: #0e2068;
+    outline: none;
+    border: none;
+    transition: all .4s ease-in-out;
+    color: aliceblue;
+
+}
+.service-btn:hover{
+    background-color: #182f8b;
+}
+
+
+.recent-left{
+    
+}
+.recent-work-btn{
+    margin-top: 30px;
+    background-color: #0e2068;
+    outline: none;
+    border: none;
+    transition: all .4s ease-in-out;
+    color: aliceblue;
+}
+.recent-work-btn:hover{
+    background-color: #182f8b;
+}
+
